@@ -1,8 +1,11 @@
     ------------- Minecraft Server -------------
+    
+Note - By using this you agree to all the Terms of Conditions and Minecrafts EULA agreements.
+	Some of these plugins and other software may be out of date, please make sure they are updated.
 
 Info -
 
-Version : PaperMC 1.16.3 #246
+Version : PaperMC 1.16.3 
 Last Updated : 24/10/2020
 
 Software -
