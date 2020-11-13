@@ -1,4 +1,4 @@
-    ------------- Minecraft Server -------------
+# Minecraft Server
     
 Note - By using this you agree to all the Terms of Conditions and Minecrafts EULA agreements.
 	Some of these plugins and other software may be out of date, please make sure they are updated.
@@ -34,7 +34,7 @@ There's a copy of Java included.
 
 Here is how to install it. https://docs.oracle.com/javase/7/docs/webnotes/install/windows/server-jre-installation-windows.html
 
-	------------- Startup -------------
+# Startup
 
 Note - 
 
@@ -52,16 +52,17 @@ It is currently set to 1 GB.
 
 Use this table to calculate RAM for this command.
 
-1 GB	1000 MB		1024 MB
-2 GB	2000 MB		2048 MB
-3 GB	3000 MB		3072 MB
-4 GB	4000 MB		4096 MB
-5 GB	5000 MB		5120 MB
-6 GB	6000 MB		6144 MB
-7 GB	7000 MB		7168 MB
-8 GB	8000 MB		8192 MB
-9 GB	9000 MB		9216 MB
-10 GB	10000 MB	10240 MB
+| 1GB  | 1000MB  | 1024MB  |
+|------|---------|---------|
+| 2GB  | 2000MB  | 2048MB  |
+| 3GB  | 3000MB  | 3072MB  |
+| 4GB  | 4000MB  | 4096MB  |
+| 5GB  | 5000MB  | 5120MB  |
+| 6GB  | 6000MB  | 6144MB  |
+| 7GB  | 7000MB  | 7168MB  |
+| 8GB  | 8000MB  | 8192MB  |
+| 9GB  | 9000MB  | 9216MB  |
+| 10GB | 10000MB | 10240MB |
 
 The code used is called "Akairs Flags". 
 If you have any problems you can contact him here.
@@ -72,7 +73,7 @@ Code -
 
 java -Xms1024M -Xmx1024M -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -jar server.jar
 
-      ------------- Useful Info -------------
+# Useful Info
 
 For any general problems ask me, or ask here, https://www.minecraftforum.net/forums/servers-java-edition/pc-servers
 
@@ -81,7 +82,7 @@ For any general problems ask me, or ask here, https://www.minecraftforum.net/for
 For RAM calculations consult : https://bit.ly/2TkKrF5
 
 
-	------------- Plugins -------------
+# Plugins
 
 Plugins compatible with 1.16.3
 
