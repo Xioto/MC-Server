@@ -1,0 +1,1 @@
+[24.10.2020 17:14:23] Xioto_: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode creative

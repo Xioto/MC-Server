@@ -1,0 +1,541 @@
+[08:23:14] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[08:23:14] [Worker-Main-4/INFO]: Loaded 7 recipes
+[08:23:16] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[08:23:16] [Server thread/INFO]: Loading properties
+[08:23:16] [Server thread/INFO]: This server is running Paper version git-Paper-246 (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[08:23:17] [Server thread/INFO]: Debug logging is disabled
+[08:23:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:23:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:23:17] [Server thread/INFO]: Default game type: SURVIVAL
+[08:23:17] [Server thread/INFO]: Generating keypair
+[08:23:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:23:17] [Server thread/INFO]: Using default channel type
+[08:23:18] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:23:22] [Server thread/WARN]: Legacy plugin WelcomeMessage v1.0 does not specify an api-version.
+[08:23:22] [Server thread/WARN]: Legacy plugin bPermissions v2.10.9 does not specify an api-version.
+[08:23:22] [Server thread/WARN]: Legacy plugin dynmap v3.1-beta4-421 does not specify an api-version.
+[08:23:23] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[08:23:23] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@b44997]
+[08:23:23] [Server thread/INFO]: [WelcomeMessage] Loading WelcomeMessage v1.0
+[08:23:23] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[08:23:23] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[08:23:23] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[08:23:23] [Server thread/INFO]: [bPermissions] Loading bPermissions v2.10.9
+[08:23:23] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[08:23:23] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.16.3) has not yet been tested! Proceed with caution.
+[08:23:23] [Server thread/INFO]: [LagAssist] Loading LagAssist v2.23.0
+[08:23:23] [Server thread/INFO]: [dynmap] Loading dynmap v3.1-beta4-421
+[08:23:23] [Server thread/INFO]: [dynmap] version=git-Paper-246 (MC: 1.16.3)
+[08:23:23] [Server thread/INFO]: [dynmap] Mod Support API available
+[08:23:23] [Server thread/INFO]: [PlayerKits] Loading PlayerKits v2.10.4
+[08:23:23] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.20.0
+[08:23:23] [Server thread/INFO]: [ChatControl] Loading ChatControl v5.9.0
+[08:23:23] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.16.0
+[08:23:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:23:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[08:23:23] [Server thread/WARN]: [WorldEdit] Loaded class de.bananaco.bpermissions.api.ApiLayer from bPermissions v2.10.9 which is not a depend, softdepend or loadbefore of this plugin.
+[08:23:23] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[08:23:24] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[08:23:24] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:23:26] [Server thread/WARN]: [Vault] Loaded class de.bananaco.bpermissions.api.WorldManager from bPermissions v2.10.9 which is not a depend, softdepend or loadbefore of this plugin.
+[08:23:26] [Server thread/INFO]: [Vault][Permission] bPermissions2 hooked.
+[08:23:26] [Server thread/INFO]: [Vault] [Permission] bPermissions 2 found: Loaded
+[08:23:26] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:23:26] [Server thread/INFO]: [Vault] [Vault][Chat] bPermissions2 hooked.
+[08:23:26] [Server thread/INFO]: [Vault] [Chat] bPermssions2 found: Loaded
+[08:23:26] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:23:26] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[08:23:26] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[08:23:26] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[08:23:27] [Server thread/INFO]: Preparing level "world"
+[08:23:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:23:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:23:27] [Server thread/INFO]: View Distance: 10
+[08:23:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:23:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:23:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:23:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:23:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:23:27] [Server thread/INFO]: Mob Spawn Range: 8
+[08:23:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:23:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:23:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:23:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:23:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08:23:27] [Server thread/INFO]: Max TNT Explosions: 100
+[08:23:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:23:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:23:27] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[08:23:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:23:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:23:28] [Server thread/INFO]: View Distance: 10
+[08:23:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:23:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:23:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:23:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:23:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:23:28] [Server thread/INFO]: Mob Spawn Range: 8
+[08:23:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:23:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:23:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:23:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08:23:28] [Server thread/INFO]: Max TNT Explosions: 100
+[08:23:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:23:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:23:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:23:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:23:28] [Server thread/INFO]: View Distance: 10
+[08:23:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:23:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:23:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:23:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:23:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:23:28] [Server thread/INFO]: Mob Spawn Range: 8
+[08:23:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:23:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:23:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:23:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:23:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08:23:28] [Server thread/INFO]: Max TNT Explosions: 100
+[08:23:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:23:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:23:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:23:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[08:23:28] [Server thread/INFO]: Preparing spawn area: 0%
+[08:23:28] [Server thread/INFO]: Time elapsed: 223 ms
+[08:23:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:23:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[08:23:28] [Server thread/INFO]: Time elapsed: 119 ms
+[08:23:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:23:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[08:23:28] [Server thread/INFO]: Time elapsed: 48 ms
+[08:23:28] [Server thread/INFO]: [WelcomeMessage] Enabling WelcomeMessage v1.0*
+[08:23:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[08:23:29] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[08:23:29] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[08:23:30] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[08:23:31] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[08:23:31] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[08:23:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[08:23:31] [Server thread/INFO]: [WorldGuard] Loading region data...
+[08:23:31] [Server thread/INFO]: [bPermissions] Enabling bPermissions v2.10.9*
+[08:23:32] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[08:23:32] [Server thread/INFO]: [LagAssist] Enabling LagAssist v2.23.0
+[08:23:32] [Server thread/INFO]: LagAssist » Enabling Systems:
+[08:23:32] [Server thread/INFO]:     [?] Economy manager
+[08:23:32] [Server thread/INFO]:     [?] Smart Mob Tools.
+[08:23:32] [Server thread/INFO]:     [?] MicroFeatures.
+[08:23:32] [Server thread/INFO]:     [?] Hopper Manager.
+[08:23:32] [Server thread/INFO]:     [?] Redstone Culler.
+[08:23:32] [Server thread/INFO]:     [?] Physics-Tweaker.
+[08:23:32] [Server thread/INFO]:     [?] Lag Monitor.
+[08:23:32] [Server thread/INFO]:     [?] MapVisualizer.
+[08:23:32] [Server thread/INFO]:     [?] Chunk Analyser.
+[08:23:32] [Server thread/INFO]:     [?] Chunk Limiter.
+[08:23:32] [Server thread/INFO]:     [?] StatsAnalyse.
+[08:23:32] [Server thread/INFO]:     [?] LogCleaner System.
+[08:23:32] [Server thread/INFO]:     [?] Spawner Manager.
+[08:23:32] [Server thread/INFO]:     [?] GUI.
+[08:23:32] [Server thread/INFO]:     [?] Injecting PacketListener.
+[08:23:32] [Server thread/INFO]:     [?] API Tools.
+[08:23:32] [Server thread/INFO]: [dynmap] Enabling dynmap v3.1-beta4-421*
+[08:23:32] [Server thread/INFO]: [dynmap] Added 4 custom biome mappings
+[08:23:32] [Server thread/INFO]: [dynmap] Using bPermissions 2.10.9 for access control
+[08:23:32] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[08:23:33] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[08:23:33] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[08:23:33] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[08:23:33] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[08:23:34] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[08:23:34] [Server thread/INFO]: [dynmap] version 3.1-beta4-421 is enabled - core version 3.1-beta4-421
+[08:23:34] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
+[08:23:34] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[08:23:34] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[08:23:34] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[08:23:34] [Server thread/INFO]: [dynmap] Loaded 3759 pending tile renders for world 'world'
+[08:23:34] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[08:23:34] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[08:23:34] [Server thread/INFO]: [dynmap] Loaded 1246 pending tile renders for world 'world_the_end'
+[08:23:34] [Server thread/INFO]: [dynmap] Enabled
+[08:23:34] [Server thread/INFO]: [PlayerKits] Enabling PlayerKits v2.10.4
+[08:23:36] [Server thread/INFO]: [PlayerKits] Has been enabled! Version: 2.10.4
+[08:23:36] [Server thread/INFO]: [PlayerKits] Thanks for using my plugin!  ~Ajneb97
+[08:23:36] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.20.0
+[08:23:36] [Server thread/INFO]: [ChatControl] Enabling ChatControl v5.9.0
+[08:23:37] [Server thread/INFO]: Hooked into: Multiverse-Core (World Alias)
+[08:23:37] [Server thread/INFO]: Hooked into: ProtocolLib (Packet Features)
+[08:23:37] [Server thread/INFO]: Hooked into: Vault
+[08:23:37] [Server thread/INFO]: Economy plugin not found
+[08:23:37] [Server thread/INFO]: Starting checker listener with NORMAL priority
+[08:23:37] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.16.0
+[08:23:37] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[08:23:37] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[08:23:38] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[08:23:38] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[08:23:38] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[08:23:38] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[08:23:38] [Server thread/INFO]: Running delayed init tasks
+[08:23:38] [Server thread/INFO]: Done (22.068s)! For help, type "help"
+[08:23:38] [Server thread/INFO]: Timings Reset
+[08:23:38] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[08:23:38] [Craft Scheduler Thread - 1/INFO]: LagAssist » You are up to date with LagAssist.
+[08:23:38] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[08:23:39] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (2beb615ff51fc9e03edf79a2e06b88aca973e9ea)
+[08:23:39] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
+[08:23:42] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[08:23:44] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[08:24:56] [Netty Server IO #1/INFO]: [LagAssist] Received ping from 127.0.0.1
+[08:25:02] [User Authenticator #1/INFO]: UUID of player Xioto_ is 64fc4cae-36d8-4c15-be8f-ec7e6c13fe60
+[08:25:15] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-246 (MC: 1.16.3) ---
+[08:25:15] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[08:25:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:25:15] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:25:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:25:15] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:25:15] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: true | State: RUNNABLE
+[08:25:15] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile.read(Native Method)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile.access$1400(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile$ZipFileInputStream.read(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.util.zip.InflaterInputStream.read(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.io.FilterInputStream.read(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		com.google.common.io.ByteStreams.copy(ByteStreams.java:106)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		com.google.common.io.ByteStreams.toByteArray(ByteStreams.java:166)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:139)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:216)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:111)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.defineClass1(Native Method)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.defineClass(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.security.SecureClassLoader.defineClass(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:167)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:216)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:111)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.dynmap.bukkit.DynmapPlugin$3.onPlayerJoin(DynmapPlugin.java:1157)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.invoke.LambdaForm$DMH/13593220.invokeVirtual_LL_V(LambdaForm$DMH)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.invoke.LambdaForm$BMH/30156148.reinvoke(LambdaForm$BMH)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.invoke.LambdaForm$MH/12147841.invoke_MT(LambdaForm$MH)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.postChunkLoadJoin(PlayerList.java:273)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.lambda$null$1(PlayerList.java:220)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList$$Lambda$5032/25232712.run(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerConnection.tick(PlayerConnection.java:154)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.NetworkManager.a(NetworkManager.java:385)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:145)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1383)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:371)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1211)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:999)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer$$Lambda$3072/21769259.run(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[08:25:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:25:15] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:25:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:25:15] [Server thread/INFO]: Xioto_ joined the game
+[08:25:19] [Server thread/INFO]: Xioto_[/127.0.0.1:60794] logged in with entity id 216 at ([world]-47.46216040767647, 77.73534975693897, -183.8156220788843)
+[08:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17272ms or 345 ticks behind
+[08:25:26] [Server thread/INFO]: Xioto_ issued server command: /gamemode creative
+[08:25:32] [Server thread/INFO]: [Xioto_: Set own game mode to Creative Mode]
+[08:25:57] [Server thread/INFO]: Xioto_ issued server command: /welcomemessage
+[08:26:02] [Server thread/INFO]: Xioto_ issued server command: /welcomemessage help
+[08:26:10] [Server thread/INFO]: Xioto_ issued server command: /welcomemessage:welcomemessage help
+[08:26:18] [Server thread/INFO]: Xioto_ issued server command: /welcomemessage:wmreload
+[08:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6342ms or 126 ticks behind
+[08:26:56] [Server thread/WARN]: Xioto_ moved too quickly! 10.660763856903577,-26.799204075978196,9.410749721248578
+[08:27:02] [Server thread/WARN]: Xioto_ moved too quickly! -9.258554435255311,-3.4487715406488064,4.1891840821182456
+[08:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5581ms or 111 ticks behind
+[08:28:29] [Netty Server IO #3/INFO]: [LagAssist] Received ping from 127.0.0.1
+[08:28:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-246 (MC: 1.16.3) ---
+[08:28:34] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[08:28:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:34] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:28:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:28:34] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: true | State: RUNNABLE
+[08:28:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile.getEntry(Native Method)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile.getEntry(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.util.jar.JarFile.getEntry(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.util.jar.JarFile.getJarEntry(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		sun.misc.URLClassPath$JarLoader.getResource(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		sun.misc.URLClassPath.getResource(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader$1.run(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader$1.run(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.security.AccessController.doPrivileged(Native Method)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader.findClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.defineClass1(Native Method)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.defineClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.security.SecureClassLoader.defineClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader.defineClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader.access$100(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader$1.run(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader$1.run(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.security.AccessController.doPrivileged(Native Method)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader.findClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R2.block.CraftBlock.getState0(CraftBlock.java:355)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R2.block.CraftBlock.getState(CraftBlock.java:326)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R2.CraftChunk.getTileEntities(CraftChunk.java:154)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R2.CraftChunk.getTileEntities(CraftChunk.java:134)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		cx.sfy.LagAssist.metrics.MetricsManager.getTileEntitiesCount(MetricsManager.java:44)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		cx.sfy.LagAssist.metrics.MetricsManager.lambda$2(MetricsManager.java:26)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		cx.sfy.LagAssist.metrics.MetricsManager$$Lambda$4739/14058592.call(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		cx.sfy.LagAssist.metrics.BStats$SingleLineChart.getChartData(BStats.java:566)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		cx.sfy.LagAssist.metrics.BStats$CustomChart.getRequestJsonObject(BStats.java:402)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		cx.sfy.LagAssist.metrics.BStats$CustomChart.access$0(BStats.java:398)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		cx.sfy.LagAssist.metrics.BStats.getPluginData(BStats.java:213)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.reflect.Method.invoke(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.bstats.bukkit.Metrics.submitData(Metrics.java:281)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.bstats.bukkit.Metrics.access$100(Metrics.java:31)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.bstats.bukkit.Metrics$1.lambda$run$0(Metrics.java:183)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.bstats.bukkit.Metrics$1$$Lambda$5342/14864124.run(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R2.scheduler.CraftTask.run(CraftTask.java:99)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_16_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1296)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:371)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1211)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:999)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer$$Lambda$3072/21769259.run(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[08:28:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:28:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-246 (MC: 1.16.3) ---
+[08:28:39] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[08:28:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:39] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:28:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:39] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:28:39] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: true | State: RUNNABLE
+[08:28:39] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream.close0(Native Method)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream.access$000(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream$1.close(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.io.FileDescriptor.closeAll(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream.close(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.util.zip.DeflaterOutputStream.close(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.io.FilterOutputStream.close(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.io.FilterOutputStream.close(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:125)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:85)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.WorldNBTStorage.save(WorldNBTStorage.java:33)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.savePlayerFile(PlayerList.java:486)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.disconnect(PlayerList.java:529)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerConnection.a(PlayerConnection.java:1600)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.NetworkManager.handleDisconnection(NetworkManager.java:497)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:165)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1383)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:371)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1211)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:999)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer$$Lambda$3072/21769259.run(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[08:28:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:28:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-246 (MC: 1.16.3) ---
+[08:28:44] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[08:28:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:44] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:28:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:44] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:28:44] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: true | State: RUNNABLE
+[08:28:44] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile.read(Native Method)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile.access$1400(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile$ZipFileInputStream.read(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.util.zip.InflaterInputStream.read(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		sun.misc.Resource.getBytes(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader.defineClass(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader.access$100(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader$1.run(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader$1.run(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.security.AccessController.doPrivileged(Native Method)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.net.URLClassLoader.findClass(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.SystemUtils.b(SystemUtils.java:373)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.SystemUtils.a(SystemUtils.java:433)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.SystemUtils.a(SystemUtils.java:426)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.WorldNBTStorage.save(WorldNBTStorage.java:37)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.savePlayerFile(PlayerList.java:486)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.disconnect(PlayerList.java:529)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerConnection.a(PlayerConnection.java:1600)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.NetworkManager.handleDisconnection(NetworkManager.java:497)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:165)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1383)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:371)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1211)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:999)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer$$Lambda$3072/21769259.run(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[08:28:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:28:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-246 (MC: 1.16.3) ---
+[08:28:49] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
+[08:28:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:49] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:28:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:49] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:28:49] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: true | State: RUNNABLE
+[08:28:49] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream.open0(Native Method)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream.open(Unknown Source)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream.<init>(Unknown Source)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		java.io.FileOutputStream.<init>(Unknown Source)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.AdvancementDataPlayer.b(AdvancementDataPlayer.java:231)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.savePlayerFile(PlayerList.java:496)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerList.disconnect(PlayerList.java:529)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.PlayerConnection.a(PlayerConnection.java:1600)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.NetworkManager.handleDisconnection(NetworkManager.java:497)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:165)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1383)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:371)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1211)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:999)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer$$Lambda$3072/21769259.run(Unknown Source)
+[08:28:49] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[08:28:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:28:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:28:50] [Server thread/INFO]: Xioto_ left the game
+[08:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25903ms or 518 ticks behind
+[08:29:19] [Server thread/INFO]: Stopping the server
+[08:29:19] [Server thread/INFO]: Stopping server
+[08:29:19] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.16.0
+[08:29:19] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[08:29:19] [Server thread/INFO]: [ChatControl] Disabling ChatControl v5.9.0
+[08:29:19] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.20.0
+[08:29:23] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 3962ms
+[08:29:23] [Server thread/INFO]: [PlayerKits] Disabling PlayerKits v2.10.4
+[08:29:26] [Server thread/INFO]: [PlayerKits] Has been disabled! Version: 2.10.4
+[08:29:26] [Server thread/INFO]: [dynmap] Disabling dynmap v3.1-beta4-421
+[08:29:36] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[08:29:36] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[08:29:37] [Server thread/INFO]: [dynmap] Saved 4490 pending tile renders in world 'world'
+[08:29:42] [Server thread/INFO]: [dynmap] Saved 1160 pending tile renders in world 'world_the_end'
+[08:29:48] [Server thread/INFO]: [dynmap] Disabled
+[08:29:48] [Server thread/INFO]: [LagAssist] Disabling LagAssist v2.23.0
+[08:29:48] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.1
+[08:29:48] [Server thread/INFO]: [bPermissions] Disabling bPermissions v2.10.9
+[08:29:48] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[08:29:48] [Server thread/INFO]: [Vault][Permission] bPermissions2 un-hooked.
+[08:29:48] [Server thread/INFO]: [Vault] [Vault][Chat] bPermissions2 un-hooked.
+[08:29:48] [Server thread/INFO]: [bPermissions] Disabled
+[08:29:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[08:29:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[08:29:48] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.2.2-b812
+[08:29:49] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:29:49] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[08:29:49] [Server thread/INFO]: [WelcomeMessage] Disabling WelcomeMessage v1.0
+[08:29:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[08:29:49] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[08:29:49] [Server thread/INFO]: Saving players
+[08:29:49] [Server thread/INFO]: Saving worlds
+[08:29:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:29:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:29:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:30:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:30:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:30:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:30:45] [Server thread/INFO]: Flushing Chunk IO
+[08:30:45] [Server thread/INFO]: Closing Thread Pool
+[08:30:45] [Server thread/INFO]: Closing Server
