@@ -1,7 +1,9 @@
 # Minecraft Server
     
 Note - By using this you agree to all the Terms of Conditions and Minecrafts EULA agreements.
-	Some of these plugins and other software may be out of date, please make sure they are updated.
+	Some of these plugins and other software may be out of date, I can not be bothered to keep updating them so please make sure they are up to date.
+
+Disclaimer - I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because any part of this failed.
 
 Info -
 
